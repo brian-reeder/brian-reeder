@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a PowerShell API to interact with an Enterprise SIEM.
+- 🌱 I’m currently learning NextJS and React.
+- 📫 How to reach me: https://www.linkedin.com/in/brian-reeder/
+- 😄 Pronouns: He/Him
+
+![](https://komarev.com/ghpvc/?username=brian-reeder)
+
 <!--
 **brian-reeder/brian-reeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
