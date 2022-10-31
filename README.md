@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a PowerShell API to interact with an Enterprise SIEM.
+- 🔭 I’m currently working on a Single Page Webapp to develop Cyber Security report templates from event logs.
 - 🌱 I’m currently learning NextJS and React.
 - 📫 How to reach me: https://www.linkedin.com/in/brian-reeder/
 - 😄 Pronouns: He/Him
